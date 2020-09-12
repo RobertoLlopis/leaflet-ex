@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Basic example of a Leaflet Map interface using React. 
+Added some Markers and current Location automaticly focus.
 
 ## Available Scripts
 
